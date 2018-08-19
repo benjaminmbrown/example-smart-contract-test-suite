@@ -1,4 +1,6 @@
-# Ethereum QA Course Final
+# Example Smart Contract Test Suite
+
+This is just an example from a smart contract audit for Ethereum QA certification. Requirements were to provide a test plan, a manual review of possible vulnerabilites + best practices, a suite of automated tests for the smart contracts, and finally running the test suite in a Continuous Integration tool.
 
 ## Part 1 - Test Plan
 
